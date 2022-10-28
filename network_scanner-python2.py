@@ -33,4 +33,4 @@ scan_result = scan(options.target)
 print_result(scan_result)
         
 
-scan("192.16.2.1/24")
+scan("{insert ip address}")
